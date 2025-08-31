@@ -1,1 +1,6 @@
-To run the website, run the "flashycard.html"
+To run the website:
+
+Download the source code
+and run the "flashycard.html"
+
+Simpe, is it not?
