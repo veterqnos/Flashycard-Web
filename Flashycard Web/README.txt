@@ -1,1 +1,0 @@
-To run the website, run the "flashycard.html"
